@@ -1,0 +1,6 @@
+name: Netlify Functions Ecommerce Example
+description: 'This project shows how to use TakeShape with Netlify Functions.'
+categories:
+  - examples
+  - use on servers
+  - netlify functions
