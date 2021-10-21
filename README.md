@@ -1,6 +1,6 @@
 # TakeShape Starter Netlify Functions
 
-The following is a guide to launching a TakeShape project that injects Ecommerce data into your React project using Netlify Functions.
+The following is a guide to launching a TakeShape project that injects Ecommerce data from a TakeShape project's API into your React project using Netlify Functions.
 
 
 ## Instructions
@@ -22,6 +22,8 @@ The following is a guide to launching a TakeShape project that injects Ecommerce
 5. Install Netlify cli with `npm install netlify-cli -g`
 
 5. Open the project directory and edit `.env.example`. Replace `Your-Endpoint-Here` with your endpoint, and `Your-Api-Key-Here` with your TakeShape project's api key. When you're done, save it and rename the file to `.env`.
+
+6. Run `ntl login` from the root directory of the project in your terminal.
 
 6. Run `ntl dev` from the root directory of the project in your terminal.
 
