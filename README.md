@@ -25,6 +25,8 @@ The following is a guide to launching a TakeShape project that injects Ecommerce
 
 6. Run `ntl login` from the root directory of the project in your terminal.
 
+6. Run `ntl init` from the root directory of the project in your terminal.
+
 6. Run `ntl dev` from the root directory of the project in your terminal.
 
 6. Open http://localhost:8888 in your favorite browser.
